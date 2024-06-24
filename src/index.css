@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply h-screen w-full overflow-hidden m-0 flex flex-col bg-paleBlue text-mediumGray;
+}
